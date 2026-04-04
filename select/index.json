@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "アンチモン",
   "base_artist": "ずっと真夜中でいいのに。",
-  "createdAt": "2026-03-30T20:07:05.188300Z",
+  "createdAt": "2026-04-04T17:22:13.161787Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "ずっと真夜中でいいのに。",
       "has_synced": false,
       "path": "select/pl_01_アンチモン_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "アンチモン",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/localdb_01_アンチモン_ずっと真夜中でいいのに。.txt",
+      "repo_name": "arkEQD4vsIk"
     }
   ]
 }
